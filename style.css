@@ -311,10 +311,16 @@ body {
   
   /* Mobile optimization */
   @media (max-width: 600px) {
+
+
     body {
       
       height: 100vh; /* Ensures visibility of the full image */
       background-attachment: scroll; /* Allows natural scrolling on mobile */
     }
+.valentines-day-card{
+margin-bottom:500px;
+}
+
   }
   
